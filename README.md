@@ -1,3 +1,3 @@
-## Source Code for My Website
+# Source Code for My Website
 
-blah blah info
+This repository contains all of the source code for my personal website.
