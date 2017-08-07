@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sophie Lancaster - skills</title><link href="http://lancastersophie.com/" rel="alternate"></link><link href="http://lancastersophie.com/feeds/skills.atom.xml" rel="self"></link><id>http://lancastersophie.com/</id><updated>2017-07-27T11:36:00-04:00</updated><entry><title>Skills</title><link href="http://lancastersophie.com/skills.html" rel="alternate"></link><published>2017-07-27T11:36:00-04:00</published><updated>2017-07-27T11:36:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-07-27:/skills.html</id><summary type="html">&lt;h3&gt;Languages&lt;/h3&gt;
+&lt;p&gt;Python, C, C++, Bash&lt;/p&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;Git, Linux, TensorFlow&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Languages&lt;/h3&gt;
+&lt;p&gt;Python, C, C++, Bash&lt;/p&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;Git, Linux, TensorFlow&lt;/p&gt;</content></entry></feed>

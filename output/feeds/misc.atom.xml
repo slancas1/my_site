@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sophie Lancaster - misc</title><link href="http://lancastersophie.com/" rel="alternate"></link><link href="http://lancastersophie.com/feeds/misc.atom.xml" rel="self"></link><id>http://lancastersophie.com/</id><updated>2017-07-27T11:36:00-04:00</updated><entry><title>Skills</title><link href="http://lancastersophie.com/skills.html" rel="alternate"></link><published>2017-07-27T11:36:00-04:00</published><updated>2017-07-27T11:36:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-07-27:/skills.html</id><summary type="html">&lt;h3&gt;Languages&lt;/h3&gt;
+&lt;p&gt;Python, C, C++, Bash&lt;/p&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;Git, Linux, TensorFlow&lt;/p&gt;</summary><content type="html">&lt;h3&gt;Languages&lt;/h3&gt;
+&lt;p&gt;Python, C, C++, Bash&lt;/p&gt;
+&lt;h3&gt;Technologies&lt;/h3&gt;
+&lt;p&gt;Git, Linux, TensorFlow&lt;/p&gt;</content></entry><entry><title>Experience</title><link href="http://lancastersophie.com/experience.html" rel="alternate"></link><published>2017-07-27T11:31:00-04:00</published><updated>2017-07-27T11:31:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-07-27:/experience.html</id><summary type="html">&lt;h2&gt;Pazmany Peter Katolikus Egyetem&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;May 2017 - August 2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budapest, Hungary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Undegraduate Researcher &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researched machine learning and neural networks&lt;/li&gt;
+&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Pazmany Peter Katolikus Egyetem&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;May 2017 - August 2017&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Budapest, Hungary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Undegraduate Researcher &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Researched machine learning and neural networks&lt;/li&gt;
+&lt;/ul&gt;</content></entry><entry><title>Education</title><link href="http://lancastersophie.com/education.html" rel="alternate"></link><published>2017-07-27T11:23:00-04:00</published><updated>2017-07-27T11:23:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-07-27:/education.html</id><summary type="html">&lt;h2&gt;University of Notre Dame&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aug 2015 - Present&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bachelor of Science and Computer Science              &lt;br&gt;
+Notre Dame, Indiana&lt;/p&gt;
+&lt;h2&gt;American International School of Rotterdam&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aug 2010 - June 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;International Baccalaureate Diploma Awarded (32)&lt;br&gt;
+Rotterdam, The Netherlands&lt;/p&gt;</summary><content type="html">&lt;h2&gt;University of Notre Dame&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aug 2015 - Present&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bachelor of Science and Computer Science              &lt;br&gt;
+Notre Dame, Indiana&lt;/p&gt;
+&lt;h2&gt;American International School of Rotterdam&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aug 2010 - June 2015&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;International Baccalaureate Diploma Awarded (32)&lt;br&gt;
+Rotterdam, The Netherlands&lt;/p&gt;</content></entry><entry><title>Contact Me</title><link href="http://lancastersophie.com/contact-me.html" rel="alternate"></link><published>2017-07-26T00:00:00-04:00</published><updated>2017-07-26T00:00:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-07-26:/contact-me.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;Address: &lt;/strong&gt; 
+    453 McGlinn Hall
+    Notre Dame, IN 46556&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phone: &lt;/strong&gt; 574-45-8530&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email: &lt;/strong&gt; slancas1@nd.edu&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;Address: &lt;/strong&gt; 
+    453 McGlinn Hall
+    Notre Dame, IN 46556&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phone: &lt;/strong&gt; 574-45-8530&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Email: &lt;/strong&gt; slancas1@nd.edu&lt;/p&gt;</content></entry><entry><title>Projects</title><link href="http://lancastersophie.com/projects.html" rel="alternate"></link><published>2017-06-04T13:53:00-04:00</published><updated>2017-06-04T13:53:00-04:00</updated><author><name>Sophie Lancaster</name></author><id>tag:lancastersophie.com,2017-06-04:/projects.html</id><summary type="html">&lt;p&gt;THIS IS A TEST&lt;/p&gt;</summary><content type="html">&lt;p&gt;THIS IS A TEST&lt;/p&gt;</content></entry></feed>
