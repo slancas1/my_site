@@ -2,8 +2,8 @@ Title: Contact Me
 Save_as: contactme.html
 
 **Address:** 
-	453 McGlinn Hall
-	Notre Dame, IN 46556
+	1855 Vaness St., Apt. 4102
+	South Bend, IN 46637
 
 **Phone:** 574-453-8530
 

@@ -18,12 +18,12 @@ SOCIAL = (('github', 'https://github.com/slancas1'),
 
 RELATIVE_URLS = True
 
-THEME = "/Users/Sophie/Desktop/Google Drive/Random Projects/Repositories/pelican-themes/subtle"
+THEME = "./pelican-themes/subtle"
 
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
-PAGE_PATHS = ['pages',]
+PAGE_PATHS = ['pages', 'pictures',]
 #path = 'Users/Sophie/Desktop/Google%20Drive/Random%20Projects/PelicanSite/output/pages/'
 #path = 'pages/'
 MENUITEMS = (
@@ -32,3 +32,4 @@ MENUITEMS = (
 	('Resume', 'resume.html'),
 	('Contact Me', 'contactme.html'),
 )
+
